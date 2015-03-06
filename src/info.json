@@ -1,0 +1,9 @@
+{
+  "name": "Biter Waves",
+  "version": "1.0.0",
+  "title": "Biter Waves",
+  "author": "Rseding91",
+  "homepage": "",
+  "dependencies": ["base"],
+  "description": "Biters attack in waves after the first hour."
+}
